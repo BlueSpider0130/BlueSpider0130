@@ -4,24 +4,7 @@ I was officially hooked on computer to computer communication when a friend and 
 So I think I am a full stack developer and mobile app developer.
 The main skill are
 
-MODERN WEB DEVELOPMENT
-✓ (front-end) HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5
-✓ (front-end) ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI
-✓ (front-end)VueJS/Vuex/Vuetify/NuxtJS/Quasar
-✓ (front-end)AngularJS
-✓ (JS Library) D3JS, jQuery, jQuery UI
-✓ (back-end) PHP, Laravel, CodeIgniter,
-✓ (back-end) NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS
-✓ (back-end) Java, JavaSpring, SpringBoot
-✓ (back-end) Python, Django, Flask
-✓ (database) MySQL, Postgres, MongoDB
-✓ (cloud based) Firebase, AWS Lambda, AWS S3, Google Map api ...
-✓ (server option) AWS, Azure, DigitalOcean, Godaddy, Netlify, Heroku
-✓Payment gateway integration such as paypal/stripe/google pay/apple pay...
-✓Web scraping using python&php
-MODERN APP DEVELOPMENT
-✓ Android (Java and Kotlin, )
-✓ Hybrid (React Native,Flutter, ionic)
+
 
 
 <table align="center">
@@ -254,3 +237,21 @@ MODERN APP DEVELOPMENT
 </table>
 
 # Development Skill Set
+MODERN WEB DEVELOPMENT
+✓ (front-end) HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5
+✓ (front-end) ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI
+✓ (front-end)VueJS/Vuex/Vuetify/NuxtJS/Quasar
+✓ (front-end)AngularJS
+✓ (JS Library) D3JS, jQuery, jQuery UI
+✓ (back-end) PHP, Laravel, CodeIgniter,
+✓ (back-end) NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS
+✓ (back-end) Java, JavaSpring, SpringBoot
+✓ (back-end) Python, Django, Flask
+✓ (database) MySQL, Postgres, MongoDB
+✓ (cloud based) Firebase, AWS Lambda, AWS S3, Google Map api ...
+✓ (server option) AWS, Azure, DigitalOcean, Godaddy, Netlify, Heroku
+✓Payment gateway integration such as paypal/stripe/google pay/apple pay...
+✓Web scraping using python&php
+MODERN APP DEVELOPMENT
+✓ Android (Java and Kotlin, )
+✓ Hybrid (React Native,Flutter, ionic)
