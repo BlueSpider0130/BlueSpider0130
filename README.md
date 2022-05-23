@@ -237,21 +237,21 @@ The main skill are
 </table>
 
 # Development Skill Set
-MODERN WEB DEVELOPMENT
-✓ (front-end) HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5
-✓ (front-end) ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI
-✓ (front-end)VueJS/Vuex/Vuetify/NuxtJS/Quasar
-✓ (front-end)AngularJS
-✓ (JS Library) D3JS, jQuery, jQuery UI
-✓ (back-end) PHP, Laravel, CodeIgniter,
-✓ (back-end) NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS
-✓ (back-end) Java, JavaSpring, SpringBoot
-✓ (back-end) Python, Django, Flask
-✓ (database) MySQL, Postgres, MongoDB
-✓ (cloud based) Firebase, AWS Lambda, AWS S3, Google Map api ...
-✓ (server option) AWS, Azure, DigitalOcean, Godaddy, Netlify, Heroku
-✓Payment gateway integration such as paypal/stripe/google pay/apple pay...
-✓Web scraping using python&php
-MODERN APP DEVELOPMENT
-✓ Android (Java and Kotlin, )
-✓ Hybrid (React Native,Flutter, ionic)
+MODERN WEB DEVELOPMENT<br />
+✓ (front-end) HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
+✓ (front-end) ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI<br />
+✓ (front-end)VueJS/Vuex/Vuetify/NuxtJS/Quasar<br />
+✓ (front-end)AngularJS<br />
+✓ (JS Library) D3JS, jQuery, jQuery UI<br />
+✓ (back-end) PHP, Laravel, CodeIgniter,<br />
+✓ (back-end) NodeJS, ExpressJS, [Socket.io](http://Socket.io), KoaJS<br />
+✓ (back-end) Java, JavaSpring, SpringBoot<br />
+✓ (back-end) Python, Django, Flask<br />
+✓ (database) MySQL, Postgres, MongoDB<br />
+✓ (cloud based) Firebase, AWS Lambda, AWS S3, Google Map api ...<br />
+✓ (server option) AWS, Azure, DigitalOcean, Godaddy, Netlify, Heroku<br />
+✓Payment gateway integration such as paypal/stripe/google pay/apple pay...<br />
+✓Web scraping using python&php<br />
+MODERN APP DEVELOPMENT<br />
+✓ Android (Java and Kotlin, )<br />
+✓ Hybrid (React Native,Flutter, ionic)<br />
