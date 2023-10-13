@@ -59,17 +59,17 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#nuxt">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/nuxt.avif" width="60" alt="nuxt" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT88O5UBwrWBfuXW2zdnl9qtTu82hST3pHzBbKqDjECSfPzXb7R6lgdiaDSNpMkU4rKyg&usqp=CAU" width="60" alt="nuxt" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#typescript">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/ts.gif" width="60" alt="typescript" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4OE3TuJcP2-_C1YfQQX7AmdtCvBXi0S-1s-I6q0CZdSKSqKWMXbN5u0lK6CE94QLMBFY&usqp=CAU" width="60" alt="typescript" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#angular">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/angular.gif" width="60" alt="angular" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-5WTgvAqrJ2TULufdteUNPU_xNSjqLnFu4rXWK5tXsVvvuvmjrVZAIfag1Z-aE1OUFg&usqp=CAU" width="60" alt="angular" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
@@ -81,17 +81,17 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#php">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/php.gif" width="60" alt="php" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYgrs5xaX8Z6RnMupUsa3MhQVysOHvZY_Wcm070ZL3IiFYuXKrCqCbclg4DS4R0XbQHk&usqp=CAU" width="60" alt="php" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#python">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/python.gif" width="60" alt="python" style="max-width: 100%;">
+                    <img src="https://www.svgrepo.com/show/452091/python.svg" width="60" alt="python" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#Java">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/java.gif" width="60" alt="Java" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0Gz0iSgogoeNlFVbSdUAErKjKdT7sVj_I_pEwuUelB8QDVKQSBKMnmjPR_O9keMlbrU&usqp=CAU" width="60" alt="Java" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
