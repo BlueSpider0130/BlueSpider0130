@@ -17,7 +17,7 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#css">
-                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F919%2F919826.png&tbnid=ZCRBdlA3I-1XiM&vet=12ahUKEwigkPK73vKBAxWbCUQIHb5fBIYQMygAegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcss_919826&docid=t4J8uLETsqDJiM&w=512&h=512&q=css%20logo&ved=2ahUKEwigkPK73vKBAxWbCUQIHb5fBIYQMygAegQIARBY" width="60" alt="css" style="max-width: 100%;">
+                    <img src="https://icons8.com/icon/38273/css3" width="60" alt="css" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
