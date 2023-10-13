@@ -44,7 +44,7 @@ The main skill are
         <tr>
             <td align="center" width="96" height="96">
                 <a href="#react">
-                    <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" width="60" alt="react" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwaRGfMBf06YdTQ4ZrSBOtglTQ7-5pXitY2wDRWu7l-v5UOu_kAjBZiDPWn62jeROoro&usqp=CAU" width="60" alt="react" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
