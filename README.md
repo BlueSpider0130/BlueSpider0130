@@ -32,7 +32,7 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#javascript">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/javascript.gif" width="60" alt="javascript" style="max-width: 100%;">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" width="60" alt="javascript" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
