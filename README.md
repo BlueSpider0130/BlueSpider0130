@@ -101,29 +101,29 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#c#">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/csharp.png" width="60" alt="c#" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2eOSMtT8zCyXYSVRDPl8nd6u4tFC1-M1J-IW5VTsLcKdrN1TR6tkPYOMuoA4Jr1EELo&usqp=CAU" width="60" alt="c#" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center" width="96" height="96">
                 <a href="#codeigniter">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/codeigniter.png" width="60" alt="codeigniter" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPr-5x0idGzOfDi7HP_qA-u-_tFL-PqKo2cSdOSh56zvRP9NOa_yE_8fxICHKAaxc2QQ&usqp=CAU" width="60" alt="codeigniter" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#laravel">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/laravel.jpeg" width="60" alt="laravel" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPTViRjJVarWMNfNKWBJcYDnQXuZtmGn94WX_q5CPH5OsinZln3fWkSAwvoXq4zEriXs&usqp=CAU" width="60" alt="laravel" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#django">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/django.png" width="60" alt="django" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM5A_mkCGlC7KJkCcKidk1O6ohaLWfCPiCjr3Wnkac-SiRzeHMxcByB93nwUH4JJq7E8&usqp=CAU" width="60" alt="django" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#flask">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flask.png" width="60" alt="flask" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPWv9gxz35o8aWFLalfNLZWUxzLbqKspZT_C_6HHMTNKR9elIbw83wRgMM3MlxI_x5rA&usqp=CAU" width="60" alt="flask" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
@@ -133,29 +133,29 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#kendo">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/kendo.webp" width="60" alt="kendo" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzNThJFWcOq0lHPNDB48DNxKGNiC0JhTdQICN6kUnd4ISRE0USRYhQv6Siqwn4_KvYQs&usqp=CAU" width="60" alt="kendo" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
         <tr>
             <td align="center" width="96" height="96">
                 <a href="#android">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/android.gif" width="60" alt="android" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLuX1jXWtPcY4TJ6-vcfM0mBlM3iYo8kIEEQjQ2mW1xIG1jFjIVZEbBDMz4zZAk64awE&usqp=CAU" width="60" alt="android" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#kotlin">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/Kotlin.jfif" width="60" alt="kotlin" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIu1v7X-vz1wEe__DRzXxIM8QCqLrhK7zuhjpZ2mYhETmA_KEDABNQeqegK-Yx68eLCg&usqp=CAU" width="60" alt="kotlin" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#iOS">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/apple.gif" width="60" alt="iOS" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVAryDY3p0mZO-eH8Q2bwz_cTl2tbDTCElz-yG-xniCP15tNcGwPhrcHuos7uPacO8l0w&usqp=CAU" width="60" alt="iOS" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#flutter">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/flutter.gif" width="60" alt="flutter" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb5Tv6DYiakYYhaXexAPomrM8E4GCab1lzA9D0mIkRJv5fvKY6bJ3bM7Us4TLvQrTZ6Q&usqp=CAU" width="60" alt="flutter" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
@@ -187,17 +187,17 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#firebase">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/firebase.webp" width="60" alt="firebase" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-F2fK7O7IHU0KvoTt1n1HTMuTZ7DXSuTPbyVmboAulGNT_smasjJMun_W1uW2cQ4Mj4&usqp=CAU" width="60" alt="firebase" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#docker">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/docker.png" width="60" alt="docker" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIP6OLvB5sYTSZI2udfIOStpR73TF1STB5VwkPaI4oSVrw7DIVhM4CRZlKfJBgutVTRXI&usqp=CAU" width="60" alt="docker" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
                 <a href="#git">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/git.gif" width="60" alt="git" style="max-width: 100%;">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hj7PvzvyOrv0_JC-nVVfXT3D00Y0zpeHPJX0DbpBTp_5sce7KheSqTNfZcGOqgi2sKU&usqp=CAU" width="60" alt="git" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
