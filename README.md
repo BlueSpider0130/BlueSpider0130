@@ -54,7 +54,7 @@ The main skill are
             </td>
             <td align="center" width="96" height="96">
                 <a href="#vue">
-                    <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/vue1.gif" width="60" alt="vue" style="max-width: 100%;">
+                    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="60" alt="vue" style="max-width: 100%;">
                 </a>
             </td>
             <td align="center" width="96" height="96">
