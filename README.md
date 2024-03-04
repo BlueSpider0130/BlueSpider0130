@@ -232,6 +232,11 @@ The main skill are
                     <img src="https://github.com/NikitaRaik/NikitaRaik/raw/main/git%20profile%20icons/svg.gif" width="60" alt="svg" style="max-width: 100%;">
                 </a>
             </td>
+            <td align="center" width="96" height="96">
+                <a href="#svg">
+                    <img src="https://images.app.goo.gl/Hqh5yMP7ysJ9e5UD8" width="60" alt="svg" style="max-width: 100%;">
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
