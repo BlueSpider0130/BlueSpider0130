@@ -1,6 +1,6 @@
-<h3 align="center">🤝 Collaboration Opportunity</h3>
+<h1 align="center">🤝 Collaboration Opportunity</h1>
 
-<p align="center">
+<p align="center" style="font-size: 20px; line-height: 4;">
 Hi there – I'm a senior web developer based in Freelancer WorldWide 🌍<br />
 I’m reaching out because I believe we could create a meaningful and rewarding partnership together.<br /><br />
 
@@ -15,6 +15,7 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
 </p>
 
 ---
+
 ## 🧰 Core Tech Icons
 
 <p align="center">
@@ -24,7 +25,7 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="45" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" alt="Angular" />
@@ -61,7 +62,7 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux" />
 
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" alt="GCP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" alt="Heroku" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" alt="Azure" />
@@ -104,3 +105,4 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
 </p>
 
 <p align="center"><strong>Click any icon to get in touch with us 📲</strong></p>
+****
