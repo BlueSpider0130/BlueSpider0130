@@ -1,83 +1,101 @@
-### Hi. 👋  
+## 🧰 Core Tech Icons
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" alt="jQuery" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" alt="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="50" alt="Ruby on Rails" />
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+
+  <!-- DevOps / Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" />
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50" alt="Heroku" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure" />
+</p>
+
+---
+
+<h3>Hi 👋</h3>
+<p>
 I’m a computer nerd at heart. <br />
-I’ve been fascinated with computers and technology since I was 5 when my dad first introduced me to the Commodore 64 computer.  
-I was officially hooked on computer-to-computer communication when a friend and I called our first BBS and thought we had somehow accidentally accessed a secret government mainframe. <br />
-“WHAT IS YOUR NAME?” It asked.<br />
-I gave a fake name. “WHAT IS YOUR LAST NAME?” ….<br />
-I hung up and unplugged the phone line from the wall. I was scared to death at first, but underneath that fear was a boiling excitement that never really left me; that drove me to learn more and more as the years went on.<br /><br />
-From there I started tearing computers apart and learning how they worked inside and out. I also immersed myself in web dev and mobile app development.<br />
-So I think I am a full stack developer and mobile app developer.<br />
-The main skills are
+I’ve been fascinated with computers and technology since I was 5 when my dad first introduced me to the Commodore 64.<br />
+I got hooked when a friend and I accessed a BBS that asked: <br />“WHAT IS YOUR NAME?” I typed a fake name. <br />
+“WHAT IS YOUR LAST NAME?” … I hung up and unplugged the phone line 😅<br />
+Underneath the fear was pure excitement—and that’s what still drives me today.<br /><br />
+Since then, I’ve been tearing apart computers, building systems, and developing full-stack web & mobile apps.
+</p>
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center" width="96" height="96">
-        <a href="#html">
-          <img src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="60" alt="html" style="max-width: 100%;">
-        </a>
-      </td>
-      <td align="center" width="96" height="96">
-        <a href="#css">
-          <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" width="60" alt="css" style="max-width: 100%;">
-        </a>
-      </td>
-      <td align="center" width="96" height="96">
-        <a href="#Bootstrap">
-          <img src="https://user-images.githubusercontent.com/86986628/166917505-6f3349c8-5c3d-4ac3-9d75-ca46782038c7.svg" width="60" alt="bootstrap" style="max-width: 100%;">
-        </a>
-      </td>
-      <td align="center" width="96" height="96">
-        <a href="#TailwindCSS">
-          <img src="https://user-images.githubusercontent.com/86986628/166917478-d0e00101-bfb3-4f61-99a9-4a3ffc059eed.svg" width="60" alt="tailwindcss" style="max-width: 100%;">
-        </a>
-      </td>
-      <td align="center" width="96" height="96">
-        <a href="#javascript">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" width="60" alt="javascript" style="max-width: 100%;">
-        </a>
-      </td>
-      <td align="center" width="96" height="96">
-        <a href="#jQuery">
-          <img src="https://user-images.githubusercontent.com/86986628/166917536-56a29dea-f9f0-449c-a3aa-19962ff21e95.svg" width="60" alt="jquery" style="max-width: 100%;">
-        </a>
-      </td>
-    </tr>
-    <!-- Add remaining rows as needed -->
-  </tbody>
-</table>
+---
 
-# Development Skill Set  
-**MODERN WEB DEVELOPMENT**<br />
-✓ (front-end) HTML5, CSS3, SASS, LESS, Bootstrap 4 and 5<br />
-✓ (front-end) ReactJS/Redux/Saga/Thunk/NextJS/Gatsby + Material UI<br />
-✓ (front-end) VueJS/Vuex/Vuetify/NuxtJS/Quasar<br />
-✓ (front-end) AngularJS<br />
-✓ (JS Library) D3JS, jQuery, jQuery UI<br />
-✓ (back-end) PHP, Laravel, CodeIgniter<br />
-✓ (back-end) NodeJS, ExpressJS, Socket.io, KoaJS<br />
-✓ (back-end) Java, JavaSpring, SpringBoot<br />
-✓ (back-end) Python, Django, Flask<br />
-✓ (database) MySQL, Postgres, MongoDB<br />
-✓ (cloud based) Firebase, AWS Lambda, AWS S3, Google Map API ...<br />
-✓ (server option) AWS, Azure, DigitalOcean, GoDaddy, Netlify, Heroku<br />
-✓ Payment gateway integration such as PayPal / Stripe / Google Pay / Apple Pay...<br />
-✓ Web scraping using Python & PHP<br />
-**MODERN APP DEVELOPMENT**<br />
-✓ Android (Java and Kotlin)<br />
-✓ Hybrid (React Native, Flutter, Ionic)<br />
+## 💻 Development Skill Set
 
-## *Contact me anytime*
-<a href="https://t.me/rabbitking0130">
-  <img width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png" alt="Telegram">
-</a>
-<a href="https://teams.live.com/l/invite/FEAPTsaDXFU3onx3wI">
-  <img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png" alt="Teams">
-</a>
-<a href="mailto:rabbitking0130@gmail.com">
-  <img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png" alt="Email">
-</a>
-<a href="https://wa.me/17174346337">
-  <img width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
-</a>
-<h5 color="red">Click anything to contact me (^_~)</h5>
+✅ **MODERN WEB DEVELOPMENT**  
+- HTML5, CSS3, Bootstrap, Tailwind  
+- React, Vue, Angular, Next.js, Nuxt  
+- Node.js, PHP (Laravel, CI), Python (Django, Flask), Java, C++  
+- MongoDB, MySQL, Firebase, PostgreSQL  
+- AWS, DigitalOcean, Heroku, Git, Docker  
+- Payment gateway: Stripe, PayPal  
+
+✅ **MOBILE DEVELOPMENT**  
+- Native Android (Java, Kotlin)  
+- iOS (Swift)  
+- Cross-platform: Flutter, React Native, Ionic  
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=BlueSpider0130&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSpider0130&layout=compact&langs_count=7&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+</div>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://t.me/rabbitking0130">
+    <img width="50" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png" alt="Telegram" />
+  </a>
+  <a href="https://teams.live.com/l/invite/FEAPTsaDXFU3onx3wI">
+    <img width="50" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png" alt="Teams" />
+  </a>
+  <a href="mailto:rabbitking0130@gmail.com">
+    <img width="50" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png" alt="Email" />
+  </a>
+  <a href="https://wa.me/17174346337">
+    <img width="50" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center"><strong>Click any icon to get in touch with me 📲</strong></p>
