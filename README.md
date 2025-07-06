@@ -1,15 +1,17 @@
 <h3 align="center">🤝 Collaboration Opportunity</h3>
 
 <p align="center">
-Hi there – I'm a senior web developer based in Freelancer WorldWide 🌍 <br />
+Hi there – I'm a senior web developer based in Freelancer WorldWide 🌍<br />
 I’m reaching out because I believe we could create a meaningful and rewarding partnership together.<br /><br />
+
 If you’re U.S. or Europe-based and open to collaboration:<br />
-✅ You make $3K+/month<br />
+✅ You make <strong>$5K+/month</strong><br />
 ✅ I handle full development work<br />
-✅ You only spend 2–3 hours/week (calls, light client chats)<br />
+✅ You only spend <strong>2–3 hours/week</strong> (calls, light client chats)<br />
 ✅ You’re fully briefed & supported (no technical stress)<br /><br />
-I know this is unusual, so happy to explain everything transparently in a short chat.<br />
-Let me know if you'd like to hear more – I truly appreciate your time!<br /><br />
+
+I know this is unusual, so I’m happy to explain everything transparently in a short chat.<br />
+Let me know if you'd like to hear more — I truly appreciate your time!<br /><br />
 </p>
 
 ---
