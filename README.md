@@ -7,7 +7,7 @@ I’m reaching out because I believe we could create a meaningful and rewarding 
 If you’re U.S. or Europe-based and open to collaboration:<br />
 ✅ You make <strong>$5K+/month</strong><br />
 ✅ I handle full development work<br />
-✅ You only spend <strong>2–3 hours/week</strong> (calls, light client chats)<br />
+✅ You only spend <strong>2–3 hours/month</strong> (calls, light client chats)<br />
 ✅ You’re fully briefed & supported (no technical stress)<br /><br />
 
 I know this is unusual, so I’m happy to explain everything transparently in a short chat.<br />
@@ -39,8 +39,8 @@ If you're curious, I’d love to walk you through how this all fits together.<br
 This is a low-stress, low-time partnership. Here's what I’m looking for:<br /><br />
 
 ✅ You're U.S. or Europe-based (for client visibility)<br />
-✅ You can create or manage an Upwork account (takes 5–10 mins)<br />
-✅ You’re okay joining occasional client calls (2–3 hours/week)<br />
+✅ You should have phone number (takes 5–10 mins)<br />
+✅ You’re okay joining occasional client calls (2–3 hours/month)<br />
 ✅ You speak confidently and can follow a simple brief I’ll provide<br /><br />
 
 You don't need to code. You don’t need to sell. You just help keep things human.<br />
