@@ -1,6 +1,6 @@
 <h1 align="center">🤝 Collaboration Opportunity</h1>
 
-<p align="center" style="font-size: 20px; line-height: 4;">
+<p align="center" style="font-size: 20px; line-height: 2;">
 Hi there – I'm a senior web developer based in Freelancer WorldWide 🌍<br />
 I’m reaching out because I believe we could create a meaningful and rewarding partnership together.<br /><br />
 
@@ -16,6 +16,47 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
 
 ---
 
+## 🔍 What’s This All About?
+
+<p align="center" style="font-size: 18px; line-height: 2;">
+I'm building a lean, high-trust collaboration model between strong developers and solid communicators.<br /><br />
+
+Think of it like a remote dev-founder team — without the startup risk or investor drama.<br />
+I focus on coding, shipping, and solving problems. You handle light client-facing tasks (2–3 hrs/week).<br /><br />
+
+Clients get top-tier delivery. You get 20–30% of every project. That means <strong>$5K+/month</strong> is realistic —<br />
+without writing a single line of code.<br /><br />
+
+It’s built on clarity, trust, and clean hand-offs — and it works.<br />
+If you're curious, I’d love to walk you through how this all fits together.<br /><br />
+</p>
+
+---
+
+## 🙋 What I Need From You
+
+<p align="center" style="font-size: 18px; line-height: 2;">
+This is a low-stress, low-time partnership. Here's what I’m looking for:<br /><br />
+
+✅ You're U.S. or Europe-based (for client visibility)<br />
+✅ You can create or manage an Upwork account (takes 5–10 mins)<br />
+✅ You’re okay joining occasional client calls (2–3 hours/week)<br />
+✅ You speak confidently and can follow a simple brief I’ll provide<br /><br />
+
+You don't need to code. You don’t need to sell. You just help keep things human.<br />
+I handle everything technical — design, development, delivery, support.<br /><br />
+
+If that sounds doable, feel free to reach out. I’ll show you how it all works step-by-step.<br /><br />
+</p>
+
+<p align="center">
+  <a href="https://t.me/rabbitking0130">
+    <img src="https://img.shields.io/badge/📩%20Message%20Me%20on%20Telegram-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Core Tech Icons
 
 <p align="center">
@@ -25,7 +66,7 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" alt="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="45" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" alt="Angular" />
@@ -105,4 +146,3 @@ Let me know if you'd like to hear more — I truly appreciate your time!<br /><b
 </p>
 
 <p align="center"><strong>Click any icon to get in touch with us 📲</strong></p>
-****
