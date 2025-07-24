@@ -1,52 +1,49 @@
 <h1 align="center">🤝 Collaboration Opportunity</h1>
 
 <p align="center" style="font-size: 20px; line-height: 2;">
-Hi there – I'm a senior web developer based in Freelancer WorldWide 🌍<br />
-I’m reaching out because I believe we could create a meaningful and rewarding partnership together.<br /><br />
+Hi there – I’m <strong>XiuTing Chan</strong>, CTO of <a href="https://deegix.com" target="_blank">Deegix</a>, a Singapore-based full-stack development company.<br />
+We're building a lean collaboration model that lets U.S. and Europe-based developers earn a stable income — with minimal time investment.<br /><br />
 
-If you’re U.S. or Europe-based and open to collaboration:<br />
-✅ You make <strong>$5K+/month</strong><br />
-✅ I handle full development work<br />
-✅ You only spend <strong>2–3 hours/month</strong> (calls, light client chats)<br />
-✅ You’re fully briefed & supported (no technical stress)<br /><br />
+If you're based in the U.S. or Europe, here’s what the opportunity looks like:<br />
+✅ You earn <strong>$5K+/month</strong> in revenue share<br />
+✅ We handle 100% of the development & delivery<br />
+✅ You spend just <strong>2–3 hours/month</strong> on light client-facing tasks<br />
+✅ We provide full briefing, support & documentation — no tech stress<br /><br />
 
-I know this is unusual, so I’m happy to explain everything transparently in a short chat.<br />
-Let me know if you'd like to hear more — I truly appreciate your time!<br /><br />
+It’s a unique setup, and I’m happy to explain it transparently in a short call.<br />
+Let me know if you'd like to explore this further — I truly appreciate your time.<br /><br />
 </p>
 
 ---
 
-## 🔍 What’s This All About?
+## 🔍 About the Collaboration Model
 
 <p align="center" style="font-size: 18px; line-height: 2;">
-I'm building a lean, high-trust collaboration model between strong developers and solid communicators.<br /><br />
+We operate like a remote dev-founder team — minus the startup chaos.<br /><br />
 
-Think of it like a remote dev-founder team — without the startup risk or investor drama.<br />
-I focus on coding, shipping, and solving problems. You handle light client-facing tasks (2–3 hrs/week).<br /><br />
+You don’t need to code or sell. You just join short client chats or calls as the visible face of our team.<br />
+Meanwhile, our engineers build, ship, and maintain the product — quickly and reliably.<br /><br />
 
-Clients get top-tier delivery. You get 20–30% of every project. That means <strong>$5K+/month</strong> is realistic —<br />
-without writing a single line of code.<br /><br />
+Clients get top-tier software delivery. You get a 20–30% cut of every project.<br />
+It’s low-friction, low-commitment, and fully transparent.<br /><br />
 
-It’s built on clarity, trust, and clean hand-offs — and it works.<br />
-If you're curious, I’d love to walk you through how this all fits together.<br /><br />
+If you're curious, I’d be happy to walk you through how it works — step-by-step.<br /><br />
 </p>
 
 ---
 
-## 🙋 What I Need From You
+## 🙋 What We’re Looking For
 
 <p align="center" style="font-size: 18px; line-height: 2;">
-This is a low-stress, low-time partnership. Here's what I’m looking for:<br /><br />
+✅ You're based in the U.S. or Europe (for client visibility)<br />
+✅ You can provide a phone number (5–10 mins setup)<br />
+✅ You’re open to joining occasional client calls (2–3 hrs/month)<br />
+✅ You speak confidently and follow a simple script/brief we provide<br /><br />
 
-✅ You're U.S. or Europe-based (for client visibility)<br />
-✅ You should have phone number (takes 5–10 mins)<br />
-✅ You’re okay joining occasional client calls (2–3 hours/month)<br />
-✅ You speak confidently and can follow a simple brief I’ll provide<br /><br />
+You don’t need to write code or handle technical tasks.<br />
+We manage everything — development, delivery, documentation, and support.<br /><br />
 
-You don't need to code. You don’t need to sell. You just help keep things human.<br />
-I handle everything technical — design, development, delivery, support.<br /><br />
-
-If that sounds doable, feel free to reach out. I’ll show you how it all works step-by-step.<br /><br />
+If that sounds manageable, just reach out — we’ll guide you through the entire process.<br /><br />
 </p>
 
 <p align="center">
@@ -57,11 +54,11 @@ If that sounds doable, feel free to reach out. I’ll show you how it all works 
 
 ---
 
-## 🌐 Visit My Website
+## 🌐 Visit Our Website
 
 <p align="center" style="font-size: 18px;">
-Explore more about our collaboration model and development work on<br />
-<a href="https://GrandKru.com" target="_blank"><strong>🌍 www.GrandKru.com</strong></a>
+Explore our services, tech stack, and case studies at:<br />
+<a href="https://deegix.com/" target="_blank"><strong>🌍 www.deegix.com</strong></a>
 </p>
 
 <p align="center">
@@ -72,13 +69,24 @@ Explore more about our collaboration model and development work on<br />
 
 ---
 
-## 🧰 Core Tech Icons
+## 📬 Contact Deegix Team
 
 <p align="center">
-
-<!-- Tech icons omitted here for space — keep your full tech stack block -->
-
+  <a href="https://t.me/rabbitking0130">
+    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png" alt="Telegram" />
+  </a>
+  <a href="https://teams.live.com/l/invite/FEAPTsaDXFU3onx3wI">
+    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png" alt="Teams" />
+  </a>
+  <a href="mailto:xiutingchan@deegix.net">
+    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png" alt="Email" />
+  </a>
+  <a href="https://wa.me/14055641014">
+    <img width="45" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
+  </a>
 </p>
+
+<p align="center"><strong>Click any icon to reach out directly 📲</strong></p>
 
 ---
 
@@ -88,24 +96,3 @@ Explore more about our collaboration model and development work on<br />
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=BlueSpider0130&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueSpider0130&layout=compact&langs_count=10&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
 </div>
-
----
-
-## 📬 Contact Collaboration Team
-
-<p align="center">
-  <a href="https://t.me/rabbitking0130">
-    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png" alt="Telegram" />
-  </a>
-  <a href="https://teams.live.com/l/invite/FEAPTsaDXFU3onx3wI">
-    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png" alt="Teams" />
-  </a>
-  <a href="mailto:rabbitking0130@gmail.com">
-    <img width="45" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png" alt="Email" />
-  </a>
-  <a href="https://wa.me/17174346337">
-    <img width="45" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" />
-  </a>
-</p>
-
-<p align="center"><strong>Click any icon to get in touch with us 📲</strong></p>
